@@ -1,6 +1,6 @@
-MOVIE_PROJECT
+### MOVIE_PROJECT ###
 
-For this project we asked the following questions:
+*For this project we asked the following questions:*
 1. What genre and maturity rating pair is "best"?
 2. What are some top directors for that pair?
 3. What is the correlation between box office profit and high ratings of a movie?
